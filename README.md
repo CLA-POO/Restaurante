@@ -7,6 +7,7 @@ Leer la sección **Planteamiento de ejercicio** y diseñar el diagrama de clases
 
 ## Planteamiento de ejercicio
 Restaurante
+
 En un restaurante, cada vez que lo visita un cliente (se considera cliente al conjunto de personas que ocupan una mesa) se le abre una orden de servicio. En esta se registra la mesa en la que se sienta y la cantidad de comensales en la misma. En la orden de servicio se registra el mesero asignado y la hora de llegada. Cada mesa tiene un número identificador, una capacidad y una ubicación.
 
 El cliente puede ordenar platillos y bebidas. Los platillos tienen un nombre, un precio y un tiempo de preparación. Las bebidas tienen un nombre, un precio, un volumen y una marca (cuando se requiera).
